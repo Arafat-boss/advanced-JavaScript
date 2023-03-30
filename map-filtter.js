@@ -10,4 +10,6 @@ const numbers = [2, 3, 4, 5, 6, 7];
 
 const result = numbers.map(X => X * X);
 
-console.log(result);
+
+const result2 = numbers.filter(X => X > 4);
+console.log(result, result2);
