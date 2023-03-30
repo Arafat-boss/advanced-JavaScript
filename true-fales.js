@@ -1,4 +1,17 @@
-//const name = 'arafaf';
+//falsy--
+// false
+// 0
+// ""
+// undefined
+// null
+// NAN
+// ______________
+// Truthy
+// " "
+// "0"
+// []
+
+
 let name;
 
 if(name){
