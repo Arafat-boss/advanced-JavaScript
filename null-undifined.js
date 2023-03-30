@@ -17,6 +17,6 @@ console.log(student.gf);
 let fun = undefined;
 console.log(fun);
 
- let ages = [2, 4, 5]
+ let ages = [4, 6, 8]
  console.log(ages[9]);
 
