@@ -17,4 +17,4 @@ const watch2 = stopWatch();
 console.log(watch2());
 console.log(watch2());
 console.log(watch2());
-console.log(watch2());
+console.log(watch2()); 
